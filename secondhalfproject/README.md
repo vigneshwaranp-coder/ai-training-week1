@@ -10,3 +10,7 @@ pip install -r requirements.txt
 3. The charts are saved in reports/figures/.
 4. The findings summary is saved in reports/findings_summary.txt.
 5. Open employee_data_analysis.html to view the exported report.
+
+
+
+
