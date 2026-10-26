@@ -1,1 +1,1 @@
-This project is for learning Git and GitHub.
+This project is for learning Git, GitHub, and Python.
