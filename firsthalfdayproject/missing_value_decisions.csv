@@ -1,0 +1,13 @@
+Column,Decision
+id,Identifier retained
+name,Missing values filled with mode
+department,Missing values filled with mode
+salary,Missing values filled with median
+city,Missing values filled with mode
+age,Missing values filled with median
+experience_years,Missing values filled with median
+performance_score,Missing values filled with median
+monthly_sales,Converted to datetime; missing values filled with mode
+joining_date,Missing values filled with mode
+gender,Missing values filled with mode
+contract_type,Missing values filled with mode

@@ -1,0 +1,66 @@
+id,name,department,salary,city,age,experience_years,performance_score,monthly_sales,joining_date,gender,contract_type
+1001,Arun Kumar, SALES ,84000, CHENNAI ,43,20,2.5,68500,2020-07-03,FEMALE, PERMANENT 
+1002,Priya R,HR, 64500 ,Hyderabad,27,4,4.6,67500,2024-08-15,Male,Intern
+1003,Rahul Sharma,IT,77500,Bangalore,35,13,2.5,58500,2020-08-10,Male,Contract
+1004,Divya Iyer,Finance,89500,Pune,38,16,4.2,93000,2022-09-15,Female,Permanent
+1005,Karthik Rao,Marketing,,Mumbai, 36 ,7,4.4,66000,2019-10-16,Female,Intern
+1006,Meena Das,Operations,71500,Bangalore,40,13,3.4,69000,2021-10-10,Male,Contract
+1007,Suresh Menon,Sales,49500,Pune,26,3,3.8,65500,2021-11-09,Male,Permanent
+1008,Anitha Singh,HR,91000,Mumbai,45,19,5.0,104000,2024-01-06,Female,Permanent
+1009,Vikram Nair,IT,64500,,31,3,2.8,51500,2025-01-18,Female,Intern
+1010,Lakshmi Pillai,Finance,97000, HYDERABAD ,46,19,4.4,84000,2018-07-07,Male,Contract
+1011,Ravi Krishnan,Marketing,60000,Mumbai,33,7,2.8,50500,2022-04-06,Male, PERMANENT 
+1012,Sneha Patel, OPERATIONS ,69500,Chennai,37,8,4.6,75000,2022-02-25,Female,Intern
+1013,Manoj Kumar,Sales,73500,Hyderabad,,11,4.6,76000,2024-10-31,Female,Contract
+1014,Kavya R,hr, 93000 ,Bangalore,44,20,4.2,86000,2023-03-09,Male,Permanent
+1015,Ajay Sharma,IT,92500,pune,38,12,4.6,82000,2025-09-05,Male,Permanent
+1016,Nisha Iyer,Finance,69000,Hyderabad,32,10,3.2,66000,2022-07-02,FEMALE,Intern
+1017,Prakash Rao,Marketing,69500,Bangalore,31,8,,63500,2020-05-20,Female,contract
+1018,Deepa Das,OPERATIONS,97000,Pune,49,20,3.8,91000,2019-08-09,Male,Permanent
+1019,Vijay Menon,Sales,65500, MUMBAI ,32,8,3.2,71000,2020-12-12,Male,Intern
+1020,Swathi Singh,HR,92000,Chennai,46,18,4.4,92000,2020-06-17, female ,Contract
+1021,Gokul Nair,IT,64500,Pune,34,,4.0,59000,2019-03-26,Female, PERMANENT 
+1022,Pooja Pillai,Finance,70000,Mumbai, 28 ,4,5.0,71500,2022-04-26,Male,Permanent
+1023,Ramesh Krishnan, MARKETING ,77500,Chennai,41,12,4.2,70500,2025-08-18,Male,Intern
+1024,Keerthi Patel,Operations,58500,Hyderabad,33,3,5.0,79000,2019-04-02,Female,Contract
+1025,Santhosh Kumar,Sales,65000,Bangalore,37,9,3.0,52000,,Female,Permanent
+1026,Aishwarya R,HR, 69000 ,Chennai,38,8,5.0,91000,2019-03-12,Male,Intern
+1027,Dinesh Sharma,it,109000,Hyderabad,46,20,4.6,92000,2019-09-19,Male,Contract
+1028,Harini Iyer,Finance,84000, BANGALORE ,35,11,4.2,69000,2024-09-19,Female,Permanent
+1029,Mohan Rao,,63500,pune,39,10,2.5,59500,2021-06-13,Female,Permanent
+1030,Revathi Das,Operations,64500,Mumbai,29,7,3.2,54500,2018-12-17,Male,Intern
+1031,Bala Menon,Sales,88000,Bangalore,38,15,5.0,87500,2019-06-10,MALE, CONTRACT 
+1032,Shalini Singh,HR,77000,Pune,45,15,3.0,77000,2024-10-20,Female,Permanent
+1033,Naveen Nair,IT,87000,Mumbai,38,13,4.2,,2022-06-23,Female,intern
+1034,Janani Pillai, FINANCE ,102500,Chennai,47,20,4.0,93000,2019-05-11,Male,Contract
+1035,Aravind Krishnan,MARKETING,62000,Hyderabad,32,7,2.8,48000,2024-08-06,Male,Permanent
+1036,Sowmya Patel,Operations,86000,Mumbai,42,17,4.4,79500,2018-10-18,Female,Permanent
+1037,Saravanan Kumar,Sales,83500, CHENNAI ,42,20,3.2,70000,2021-09-15,,Intern
+1038,Monisha R,HR, 49500 ,Hyderabad,32,2,3.2,61500,2020-05-27,Male,Contract
+1039,Surya Sharma,IT,104500,Bangalore, 41 ,17,4.8,99000,2020-09-22, male ,Permanent
+1040,Indhu Iyer,finance,81000,Pune,43,15,3.2,65500,2025-05-23,Female,Intern
+1041,Venkatesh Rao,Marketing,80500,Hyderabad,40,13,3.8,82000,2026-03-06,Female,
+1042,Ramya Das,Operations,45500,Bangalore,24,1,2.5,47000,2019-03-24,Male,Permanent
+1043,Bharath Menon,Sales,63000,pune,32,7,3.2,66500,2019-07-29,Male,Permanent
+1044,Yamini Singh,HR,450000,Mumbai,37,13,3.4,70000,2018-11-05,Female,Intern
+1045,Sathish Nair, IT ,80500,Chennai,44,14,2.8,74000,2018-03-02,Female,Contract
+1046,Pavithra Pillai,Finance,57000, PUNE ,27,2,3.0,59000,2023-05-26,MALE,Permanent
+1047,Kiran Krishnan,Marketing,55500,Mumbai,34,6,2.5,54500,2018-01-09,Male,Intern
+1048,Geetha Patel,Operations,,Chennai,38,12,5.0,89000,2022-09-29,Female,Contract
+1049,Yogesh Kumar,Sales,78000,Hyderabad,46,17,3.0,72000,2020-06-10,Female,permanent
+1050,Madhavi R,HR, 45000 ,Bangalore,31,1,2.5,37500,2018-07-25,Male,Permanent
+1051,Anand Sharma,IT,103500,Chennai,47,18,4.2,83000,2018-08-21,Male, INTERN 
+1052,Hema Iyer,FINANCE,82000,Hyderabad,39,16,3.0,63500,2025-07-28,Female,Contract
+1053,Praveen Rao,marketing,65500,,35,7,,55000,2024-06-29,Female,Permanent
+1054,Shreya Das,Operations,88000,Pune,41,19,4.4,95500,2025-05-16,Male,Intern
+1055,Nithin Menon,Sales,84000, MUMBAI ,48,18,3.6,77500,2025-07-06,Male,Contract
+1056,Aparna Singh, HR ,70000,Bangalore, 35 ,10,3.4,62500,2025-07-14,Female,Permanent
+1057,Ganesh Nair,IT,103500,pune,46,20,4.0,80500,2018-02-08,Female,Permanent
+1058,Bhavya Pillai,Finance,84500,Mumbai,,14,2.8,,2023-09-04, male ,Intern
+1059,Sridhar Krishnan,Marketing,63000,Chennai,32,8,3.6,66000,2022-02-22,Male,Contract
+1060,Lavanya Patel,Operations,72000,Hyderabad,33,9,4.0,74000,2024-11-10,Female,Permanent
+1003,Rahul Sharma,IT,77500,Bangalore,35,13,2.5,58500,2020-08-10,Male,Contract
+1010,Lakshmi Pillai,Finance,97000, HYDERABAD ,46,19,4.4,84000,2018-07-07,Male,Contract
+1022,Pooja Pillai,Finance,70000,Mumbai, 28 ,4,5.0,71500,2022-04-26,Male,Permanent
+1036,Sowmya Patel,Operations,86000,Mumbai,42,17,4.4,79500,2018-10-18,Female,Permanent
+1051,Anand Sharma,IT,103500,Chennai,47,18,4.2,83000,2018-08-21,Male, INTERN 

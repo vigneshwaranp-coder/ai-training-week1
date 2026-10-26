@@ -1,0 +1,20 @@
+
+Employee Data Analysis - Key Findings
+
+Problem:
+Analyze employee data to understand salary distribution, experience,
+performance, and monthly sales.
+
+Data:
+The analysis uses the cleaned employee dataset.
+
+Three Key Insights:
+1. Average salaries differ across departments.
+2. Salary generally has a positive relationship with employee experience.
+3. Employee characteristics show different relationships with monthly sales.
+
+Two Recommendations:
+1. Review salary differences across departments for fairness.
+2. Analyze employee experience and performance to identify opportunities
+   to improve sales.
+
